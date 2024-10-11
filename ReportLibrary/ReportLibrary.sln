@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportLibrary", "ReportLibrary.csproj", "{6B7C64BB-8B82-4D1B-82C1-EE61989F7CFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportUI", "..\ReportUI\ReportUI.csproj", "{76CDAA2F-98DA-4B1F-A5B4-8103A1426217}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6B7C64BB-8B82-4D1B-82C1-EE61989F7CFA} = {6B7C64BB-8B82-4D1B-82C1-EE61989F7CFA}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B7C64BB-8B82-4D1B-82C1-EE61989F7CFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B7C64BB-8B82-4D1B-82C1-EE61989F7CFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B7C64BB-8B82-4D1B-82C1-EE61989F7CFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B7C64BB-8B82-4D1B-82C1-EE61989F7CFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76CDAA2F-98DA-4B1F-A5B4-8103A1426217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76CDAA2F-98DA-4B1F-A5B4-8103A1426217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76CDAA2F-98DA-4B1F-A5B4-8103A1426217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76CDAA2F-98DA-4B1F-A5B4-8103A1426217}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51207090-39E8-4A00-BD51-41F8B70DDF76}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\unnati.kurekar\source\repos\ReportLibrary\bin\Debug\net8.0\ReportLibrary.deps.json
+C:\Users\unnati.kurekar\source\repos\ReportLibrary\bin\Debug\net8.0\ReportLibrary.dll
+C:\Users\unnati.kurekar\source\repos\ReportLibrary\bin\Debug\net8.0\ReportLibrary.pdb
+C:\Users\unnati.kurekar\source\repos\ReportLibrary\obj\Debug\net8.0\ReportLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unnati.kurekar\source\repos\ReportLibrary\obj\Debug\net8.0\ReportLibrary.AssemblyInfoInputs.cache
+C:\Users\unnati.kurekar\source\repos\ReportLibrary\obj\Debug\net8.0\ReportLibrary.AssemblyInfo.cs
+C:\Users\unnati.kurekar\source\repos\ReportLibrary\obj\Debug\net8.0\ReportLibrary.csproj.CoreCompileInputs.cache
+C:\Users\unnati.kurekar\source\repos\ReportLibrary\obj\Debug\net8.0\ReportLibrary.dll
+C:\Users\unnati.kurekar\source\repos\ReportLibrary\obj\Debug\net8.0\refint\ReportLibrary.dll
+C:\Users\unnati.kurekar\source\repos\ReportLibrary\obj\Debug\net8.0\ReportLibrary.pdb
+C:\Users\unnati.kurekar\source\repos\ReportLibrary\obj\Debug\net8.0\ref\ReportLibrary.dll
